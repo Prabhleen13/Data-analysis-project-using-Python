@@ -33,3 +33,4 @@ The project highlights patterns of social media addiction and its impact on stud
 
 👩‍💻 Authors
 -Prabhleen Kaur
+-Minal Sood
